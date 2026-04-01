@@ -1,0 +1,26 @@
+[
+  {
+    "disease": "Flu",
+    "specialist": "General Physician"
+  },
+  {
+    "disease": "COVID-19",
+    "specialist": "Pulmonologist"
+  },
+  {
+    "disease": "Heart Disease",
+    "specialist": "Cardiologist"
+  },
+  {
+    "disease": "Migraine",
+    "specialist": "Neurologist"
+  },
+  {
+    "disease": "Dengue",
+    "specialist": "General Physician"
+  },
+  {
+    "disease": "Asthma",
+    "specialist": "Pulmonologist"
+  }
+]

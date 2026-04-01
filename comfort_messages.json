@@ -1,0 +1,17 @@
+{
+  "mild": [
+    "You're going to be okay \ud83d\ude0a Just take some rest and stay hydrated.",
+    "This looks like a common issue. Still, take care and monitor symptoms.",
+    "Nothing serious detected, but listen to your body \u2764\ufe0f"
+  ],
+  "moderate": [
+    "It\u2019s better to consult a doctor soon for proper care.",
+    "Please don\u2019t ignore these symptoms. A quick checkup is recommended.",
+    "You're not alone \u2014 getting medical advice will help \ud83d\udc4d"
+  ],
+  "severe": [
+    "Please seek medical attention immediately \ud83d\udea8",
+    "This may require urgent care. Contact a hospital right away.",
+    "Your health matters \u2014 please visit the nearest hospital now."
+  ]
+}
