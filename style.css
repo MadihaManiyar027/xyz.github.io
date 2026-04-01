@@ -1,0 +1,29 @@
+body {
+    font-family: Arial;
+    background: #eef5ff;
+    text-align: center;
+}
+
+h1 {
+    color: #2c7be5;
+}
+
+.box {
+    background: white;
+    padding: 20px;
+    margin: 20px auto;
+    width: 300px;
+    border-radius: 10px;
+}
+
+button {
+    padding: 10px;
+    background: #2c7be5;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#result {
+    margin-top: 20px;
+}
